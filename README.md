@@ -3,6 +3,29 @@ It is a landing page for a company named Fylo
 
 # Frontend Mentor - Fylo landing page with dark theme and features grid
 
+
+## Preveiw : 
+
+<a href="https://ibb.co/S5Y3npG"><img src="https://i.ibb.co/WG82y1j/Capture.png" alt="Capture" border="0"></a>
+
+<br>
+
+<a href="https://ibb.co/bLn3fR2"><img src="https://i.ibb.co/FJtWPq0/Capture1.png" alt="Capture1" border="0"></a>
+
+<br>
+
+<a href="https://ibb.co/NjMgVqG"><img src="https://i.ibb.co/qsvLy82/Capture2.png" alt="Capture2" border="0"></a>
+
+<br>
+
+<a href="https://ibb.co/cT2s9QJ"><img src="https://i.ibb.co/BsTYJBL/Capture3.png" alt="Capture3" border="0"></a>
+
+<br>
+
+<a href="https://ibb.co/NTqtXG9"><img src="https://i.ibb.co/wcqBT2S/Capture4.png" alt="Capture4" border="0"></a>
+
+
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
